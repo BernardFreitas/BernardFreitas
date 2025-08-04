@@ -33,7 +33,7 @@
      <a href="https://www.linkedin.com/in/bernard-freitas-8324b0378/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
 
-  ![Snake animation](https://github.com/BernardFreitas/BernardFreitas/blob/output/github-contribution-grid-snake.svg)
+
   
 
 
